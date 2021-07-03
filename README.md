@@ -1,4 +1,5 @@
 # Podcastr
 
 Sistema web para gerenciamento de podcastrs.
-Desenvolvido com ReactJS
+
+Desenvolvido com ReactJS e TypeScript.

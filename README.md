@@ -1,5 +1,5 @@
 # Podcastr
 
-Sistema web sobre poscastrs.
+Web System about poscastrs.
 
-Desenvolvido com as principais tecnologias do mercado. ReactJS e TypeScript.
+Developer with the main technologies of the market. ReactJS, NextJS and TypeScript.
